@@ -38,3 +38,5 @@ function encrypt(text, n) {
   }
   return text;
 }
+
+// or
